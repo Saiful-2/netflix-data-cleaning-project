@@ -24,6 +24,11 @@ Source: Kaggle
 ## Output
 A cleaned dataset ready for analysis.
 
+## Repository Link
+
+GitHub Repository:  
+https://github.com/Saiful-2/netflix-data-cleaning-project
+
 ## Project Structure
 
 netflix-data-cleaning-project
@@ -48,3 +53,4 @@ netflix-data-cleaning-project
 - M.S. in Statistics  
 - M.Sc. in Data Science and Machine Learning (ongoing)  
 - Research Officer, Bangladesh Forest Research Institute (BFRI)
+
